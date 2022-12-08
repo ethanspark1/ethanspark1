@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ethan Park
 - I’m currently a graduate student at Texas A&M University studying financial econometrics
-- This page is where I post projects I have completed for class
-- I’m currently looking for an internship relating to econometrics or statistics 
+- This page is where I post projects I have completed in my classes
+- I’m currently looking for an position relating to econometrics or statistics 
 - 📫 If you would like to reach me by email, my email is ethan.park1@gmail.com
 
 <!---
